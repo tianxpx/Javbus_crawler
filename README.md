@@ -3,7 +3,7 @@
 
 https://www.cnblogs.com/Akkuman/p/6963099.html
 
-爬虫依赖的第三方库有Requests，BeautifulSoup，使用前请先pip install这两个第三方库
+爬虫依赖的第三方库有Requests，BeautifulSoup,BeautifulSoup4，使用前请先pip install这两个第三方库
 
 # 小Tips
 对于动态加载的内容的爬取，能不用selenium去模拟浏览器爬取就不用，耗费资源，更好的是自己分析网络请求，然后构造
